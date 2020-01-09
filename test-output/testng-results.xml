@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51601" started-at="2019-12-29T00:08:43Z" finished-at="2019-12-29T00:09:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51601" started-at="2019-12-29T00:08:43Z" finished-at="2019-12-29T00:09:34Z">
+      <class name="com.qa.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="setUp" is-config="true" duration-ms="20839" started-at="2019-12-29T00:08:43Z" finished-at="2019-12-29T00:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectDepartingAndArrivingCity()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="selectDepartingAndArrivingCity" duration-ms="1444" started-at="2019-12-29T00:09:04Z" finished-at="2019-12-29T00:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDepartingAndArrivingCity -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="829" started-at="2019-12-29T00:09:05Z" finished-at="2019-12-29T00:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="setUp" is-config="true" duration-ms="11679" started-at="2019-12-29T00:09:06Z" finished-at="2019-12-29T00:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkTravelTheWorldLink()[pri:1, instance:com.qa.test.HomePageTest@6a4f787b]" name="checkTravelTheWorldLink" duration-ms="1085" started-at="2019-12-29T00:09:18Z" finished-at="2019-12-29T00:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTravelTheWorldLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="1191" started-at="2019-12-29T00:09:19Z" finished-at="2019-12-29T00:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="setUp" is-config="true" duration-ms="11160" started-at="2019-12-29T00:09:20Z" finished-at="2019-12-29T00:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkHomeLink()[pri:2, instance:com.qa.test.HomePageTest@6a4f787b]" name="checkHomeLink" duration-ms="2118" started-at="2019-12-29T00:09:31Z" finished-at="2019-12-29T00:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomeLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="1120" started-at="2019-12-29T00:09:33Z" finished-at="2019-12-29T00:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
